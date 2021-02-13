@@ -1,0 +1,11 @@
+-- // For Community Commands Use \\ --
+.about - Give info about commands
+.reptisia - Gives game info on Reptisia[Online]
+
+-- // For Moderation Commands Use \\ --
+.clear - Clears text
+.mute - Mutes specified user
+.unmute - Unmutes specified user
+.kick - Kicks specified user
+.ban - Bans specified user
+.unban - Unbans specified user
